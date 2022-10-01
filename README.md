@@ -1,2 +1,2 @@
-# iza
-Inteligência Artificial em Python
+# Inteligência Artificial IZA
+Código escrito em Python
